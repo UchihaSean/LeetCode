@@ -34,4 +34,4 @@ class Solution(object):
 
 
 test = Solution()
-print test.isMatch("aa","a*a*")
+print test.isMatch("b","*")
