@@ -17,9 +17,12 @@
 - 0250 Count Univalue Subtrees. Recursive
 - 0253 Meeting Rooms II. Sort and mark start with +1, end with -1. Sum. O(nlogn)
 - 0255 Verify Preorder Sequence in Binary Search Tree. Trick
+- 0272 Closest Binary Search Tree Value II. left root right, then change the [left, right]
 - 0285 Inorder Successor in BST. left root right
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
+- 0366 Find Leaves of Binary Tree. Track depth and add leaves.
+- 0582 Kill Process. Union find.
 - 0654 Maximum Binary Tree. Tree.
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
 
