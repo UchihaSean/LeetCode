@@ -26,6 +26,7 @@
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
 - 0582 Kill Process. Union find.
 - 0654 Maximum Binary Tree. Tree.
+- 0680 Valid Palindrome II. s[l]!=s[r], check s[l:r] or s[l+1:r+1]
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
 
 
