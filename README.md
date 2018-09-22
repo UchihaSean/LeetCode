@@ -20,14 +20,18 @@
 - 0253 Meeting Rooms II. Sort and mark start with +1, end with -1. Sum. O(nlogn)
 - 0255 Verify Preorder Sequence in Binary Search Tree. Trick
 - 0272 Closest Binary Search Tree Value II. left root right, then change the [left, right]
+- 0277 Find the Celebrity. Knows(a,b) can reduce question to half.
 - 0285 Inorder Successor in BST. left root right
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
+- 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
 - 0582 Kill Process. Union find.
 - 0654 Maximum Binary Tree. Tree.
 - 0680 Valid Palindrome II. s[l]!=s[r], check s[l:r] or s[l+1:r+1]
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
+- 0689 Maximum Sum of 3 Non-Overlapping Subarrays. heap three times
+
 
 
 
