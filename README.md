@@ -12,25 +12,34 @@
 - 0146 LRU Cache. Ordered dictionary
 - 0156 Binary Tree Upside Down. Recursive
 - 0200 Number of Islands. DFS + visited
+- 0211 Add and Search Word - Data structure design. Trie.
 - 0215 Kth Largest Element in an Array. Minimum heap
+- 0227 Basic Calculator II. Stack.
 - 0230 Kth Smallest Element in a BST. Morris with O(1) space
 - 0236 Lowest Common Ancestor of a Binary Tree. Recursive.
 - 0238 Product of Array Except Self. Left product and right product
+- 0247 Strobogrammatic Number II. DFS.
 - 0250 Count Univalue Subtrees. Recursive
 - 0253 Meeting Rooms II. Sort and mark start with +1, end with -1. Sum. O(nlogn)
 - 0255 Verify Preorder Sequence in Binary Search Tree. Trick
+- 0269 Alien Dictionary. in and out. a --> b mean fin[b]+=1. Stack.
 - 0272 Closest Binary Search Tree Value II. left root right, then change the [left, right]
 - 0277 Find the Celebrity. Knows(a,b) can reduce question to half.
 - 0285 Inorder Successor in BST. left root right
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
+- 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
+- 0523 Continuous Subarray Sum. Trick. Consider 0*k=0 and k==0.
+- 0560 Subarray Sum Equals K. Dictionary.
 - 0582 Kill Process. Union find.
 - 0654 Maximum Binary Tree. Tree.
 - 0680 Valid Palindrome II. s[l]!=s[r], check s[l:r] or s[l+1:r+1]
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
 - 0689 Maximum Sum of 3 Non-Overlapping Subarrays. heap three times
+- 0721 Accounts Merge. Union find.
+- 0785 Is Graph Bipartite. Two color. DFS.
 
 
 
