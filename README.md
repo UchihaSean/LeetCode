@@ -25,12 +25,18 @@
 - 0269 Alien Dictionary. in and out. a --> b mean fin[b]+=1. Stack.
 - 0272 Closest Binary Search Tree Value II. left root right, then change the [left, right]
 - 0277 Find the Celebrity. Knows(a,b) can reduce question to half.
+- 0282 Expression Add Operators. DFS
 - 0285 Inorder Successor in BST. left root right
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
+- 0304 Range Sum Query 2D - Immutable. Pre sum.
+- 0314 Binary Tree Vertical Order Traversal. BFS
+- 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
+- 0381 Insert Delete GetRandom O(1) - Duplicates allowed. List and Dict. Trick. Remove one element from list, swap last one with this one.
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
+- 0432 All O`one Data Structure. Double Linked list.
 - 0523 Continuous Subarray Sum. Trick. Consider 0*k=0 and k==0.
 - 0560 Subarray Sum Equals K. Dictionary.
 - 0582 Kill Process. Union find.
@@ -40,6 +46,8 @@
 - 0689 Maximum Sum of 3 Non-Overlapping Subarrays. heap three times
 - 0721 Accounts Merge. Union find.
 - 0785 Is Graph Bipartite. Two color. DFS.
+- 0791 Custom Sort String. Dict.
+- 0825 Friends Of Appropriate Ages. Pre sum.
 
 
 
