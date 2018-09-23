@@ -33,6 +33,7 @@
 - 0314 Binary Tree Vertical Order Traversal. BFS
 - 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
+- 0336 Palindrome Pairs. Set.
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
 - 0381 Insert Delete GetRandom O(1) - Duplicates allowed. List and Dict. Trick. Remove one element from list, swap last one with this one.
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
@@ -40,6 +41,7 @@
 - 0523 Continuous Subarray Sum. Trick. Consider 0*k=0 and k==0.
 - 0560 Subarray Sum Equals K. Dictionary.
 - 0582 Kill Process. Union find.
+- 0636 Exclusive Time of Functions. Stack.
 - 0654 Maximum Binary Tree. Tree.
 - 0680 Valid Palindrome II. s[l]!=s[r], check s[l:r] or s[l+1:r+1]
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
