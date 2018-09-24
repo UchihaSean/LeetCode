@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d951a6-693c-4380-8da7-fe427e11a525" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/0336/PalindromePairs.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0636/ExclusiveTime.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0224/BasicCalculator.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0493/ReversePairs.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0772/BasicCalculate.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -15,18 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ExclusiveTime.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0636/ExclusiveTime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,9 +31,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/QuickSort.py" />
-        <option value="$PROJECT_DIR$/388/LongestAbsoluteFilePath.py" />
-        <option value="$PROJECT_DIR$/394/DecodeString.py" />
         <option value="$PROJECT_DIR$/0399/EvaluationDivision.py" />
         <option value="$PROJECT_DIR$/0046/Permutations.py" />
         <option value="$PROJECT_DIR$/0417/PacificAtlanticWaterFlow.py" />
@@ -92,6 +79,9 @@
         <option value="$PROJECT_DIR$/0314/BinaryTreeVerticalOrder.py" />
         <option value="$PROJECT_DIR$/0336/PalindromePairs.py" />
         <option value="$PROJECT_DIR$/0636/ExclusiveTime.py" />
+        <option value="$PROJECT_DIR$/0224/BasicCalculator.py" />
+        <option value="$PROJECT_DIR$/0772/BasicCalculate.py" />
+        <option value="$PROJECT_DIR$/0493/ReversePairs.py" />
       </list>
     </option>
   </component>
@@ -131,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -149,6 +138,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ShorestDisFromAllBuilding">
+  <component name="RunManager" selected="Python.ReversePairs">
     <configuration name="AlienDictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -185,37 +175,37 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="BinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="BasicCalculator" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0224" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/BinarySearch.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0224/BasicCalculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="MaxSumOfThreeSubstrings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ReversePairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0689" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0493" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0689/MaxSumOfThreeSubstrings.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0493/ReversePairs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,19 +248,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.MaxSumOfThreeSubstrings" />
-      <item index="1" class="java.lang.String" itemvalue="Python.BinarySearch" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AlienDictionary" />
-      <item index="3" class="java.lang.String" itemvalue="Python.StrobogrammaticNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Python.ShorestDisFromAllBuilding" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AlienDictionary" />
+      <item index="1" class="java.lang.String" itemvalue="Python.StrobogrammaticNumber" />
+      <item index="2" class="java.lang.String" itemvalue="Python.ShorestDisFromAllBuilding" />
+      <item index="3" class="java.lang.String" itemvalue="Python.BasicCalculator" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ReversePairs" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ShorestDisFromAllBuilding" />
-        <item index="1" class="java.lang.String" itemvalue="Python.StrobogrammaticNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AlienDictionary" />
-        <item index="3" class="java.lang.String" itemvalue="Python.BinarySearch" />
-        <item index="4" class="java.lang.String" itemvalue="Python.MaxSumOfThreeSubstrings" />
+        <item index="0" class="java.lang.String" itemvalue="Python.ReversePairs" />
+        <item index="1" class="java.lang.String" itemvalue="Python.BasicCalculator" />
+        <item index="2" class="java.lang.String" itemvalue="Python.ShorestDisFromAllBuilding" />
+        <item index="3" class="java.lang.String" itemvalue="Python.StrobogrammaticNumber" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AlienDictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -292,7 +282,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="817" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -323,27 +312,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0388/LongestAbsoluteFilePath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-139">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="38" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0399/EvaluationDivision.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0394/DecodeString.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0046/Permutations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
@@ -651,7 +619,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="334">
           <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,14 +626,37 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
           <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0636/ExclusiveTime.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="336">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0224/BasicCalculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="56" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0493/ReversePairs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="22" column="36" lean-forward="false" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0772/BasicCalculate.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding />
         </state>
       </provider>

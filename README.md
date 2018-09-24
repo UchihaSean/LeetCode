@@ -14,6 +14,7 @@
 - 0200 Number of Islands. DFS + visited
 - 0211 Add and Search Word - Data structure design. Trie.
 - 0215 Kth Largest Element in an Array. Minimum heap
+- 0224 Basic Calculator. Iterate. Trick to consider ()
 - 0227 Basic Calculator II. Stack.
 - 0230 Kth Smallest Element in a BST. Morris with O(1) space
 - 0236 Lowest Common Ancestor of a Binary Tree. Recursive.
@@ -38,6 +39,7 @@
 - 0381 Insert Delete GetRandom O(1) - Duplicates allowed. List and Dict. Trick. Remove one element from list, swap last one with this one.
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
 - 0432 All O`one Data Structure. Double Linked list.
+- 0493 Reverse Pairs. Merge Sort.
 - 0523 Continuous Subarray Sum. Trick. Consider 0*k=0 and k==0.
 - 0560 Subarray Sum Equals K. Dictionary.
 - 0582 Kill Process. Union find.
@@ -47,6 +49,7 @@
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
 - 0689 Maximum Sum of 3 Non-Overlapping Subarrays. heap three times
 - 0721 Accounts Merge. Union find.
+- 0772 Basic Calculator III. DFS and Stack.
 - 0785 Is Graph Bipartite. Two color. DFS.
 - 0791 Custom Sort String. Dict.
 - 0825 Friends Of Appropriate Ages. Pre sum.
