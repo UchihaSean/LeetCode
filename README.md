@@ -13,6 +13,7 @@
 - 0156 Binary Tree Upside Down. Recursive
 - 0161 One Edit Distance. Easy
 - 0200 Number of Islands. DFS + visited
+- 0209 Minimum Size Subarray Sum. Two Pointer O(n), Binary search O(nlgn)
 - 0211 Add and Search Word - Data structure design. Trie.
 - 0215 Kth Largest Element in an Array. Minimum heap
 - 0224 Basic Calculator. Iterate. Trick to consider ()
@@ -32,25 +33,31 @@
 - 0286 Walls and Gates. BFS
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
+- 0300 Longest Increasing Subsequence. Binary search.
 - 0304 Range Sum Query 2D - Immutable. Pre sum.
 - 0305 Number of Islands II. Union-find.
 - 0314 Binary Tree Vertical Order Traversal. BFS
 - 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
 - 0336 Palindrome Pairs. Set.
+- 0360 Sort Transformed Array. Math.
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
 - 0381 Insert Delete GetRandom O(1) - Duplicates allowed. List and Dict. Trick. Remove one element from list, swap last one with this one.
+- 0403 Frog Jump. BFS
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
 - 0432 All O`one Data Structure. Double Linked list.
 - 0493 Reverse Pairs. Merge Sort.
+- 0505 The Maze II. BFS and Dynamic Programming.
 - 0523 Continuous Subarray Sum. Trick. Consider 0*k=0 and k==0.
 - 0560 Subarray Sum Equals K. Dictionary.
+- 0567 Permutation in String. Dictionary.
 - 0582 Kill Process. Union find.
 - 0636 Exclusive Time of Functions. Stack.
 - 0654 Maximum Binary Tree. Tree.
 - 0680 Valid Palindrome II. s[l]!=s[r], check s[l:r] or s[l+1:r+1]
 - 0681 Next Closest Time. Iterate numbers. Be careful about only one number. "00:00" -> "00:00"
 - 0689 Maximum Sum of 3 Non-Overlapping Subarrays. heap three times
+- 0708 Insert into a Cyclic Sorted List. Iterate.
 - 0721 Accounts Merge. Union find.
 - 0772 Basic Calculator III. DFS and Stack.
 - 0785 Is Graph Bipartite. Two color. DFS.
