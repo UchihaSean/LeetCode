@@ -11,6 +11,7 @@
 - 0139 Word Break. BFS
 - 0146 LRU Cache. Ordered dictionary
 - 0156 Binary Tree Upside Down. Recursive
+- 0161 One Edit Distance. Easy
 - 0200 Number of Islands. DFS + visited
 - 0211 Add and Search Word - Data structure design. Trie.
 - 0215 Kth Largest Element in an Array. Minimum heap
@@ -28,9 +29,11 @@
 - 0277 Find the Celebrity. Knows(a,b) can reduce question to half.
 - 0282 Expression Add Operators. DFS
 - 0285 Inorder Successor in BST. left root right
+- 0286 Walls and Gates. BFS
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
 - 0304 Range Sum Query 2D - Immutable. Pre sum.
+- 0305 Number of Islands II. Union-find.
 - 0314 Binary Tree Vertical Order Traversal. BFS
 - 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
@@ -53,6 +56,7 @@
 - 0785 Is Graph Bipartite. Two color. DFS.
 - 0791 Custom Sort String. Dict.
 - 0825 Friends Of Appropriate Ages. Pre sum.
+- 0862 Shortest Subarray with Sum at Least K. Stack with increase pre sum and binary search.
 
 
 
