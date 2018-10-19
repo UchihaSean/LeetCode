@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d951a6-693c-4380-8da7-fe427e11a525" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/0239/SlidingWindowMaximum.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0240/Search2DMatrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0295/FindMedianFromDataStream.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0322/CoinChange.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0347/TopKthElements.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0380/InsertDeleteGetRandom.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0212/WordSearch.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0287/FindDuplicateNumber.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -24,11 +20,21 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="95">
-                <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+              <first_editor relative-caret-position="88">
+                <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WordSearch.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0212/WordSearch.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="29" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -48,8 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0582/KillProcess.py" />
-        <option value="$PROJECT_DIR$/0238/ProductOfArrayExpectSelf.py" />
         <option value="$PROJECT_DIR$/0215/KthLargestElement.py" />
         <option value="$PROJECT_DIR$/0680/ValidPalindrome.py" />
         <option value="$PROJECT_DIR$/0689/MaxSumOfThreeSubstrings.py" />
@@ -98,6 +102,8 @@
         <option value="$PROJECT_DIR$/0322/CoinChange.py" />
         <option value="$PROJECT_DIR$/0295/FindMedianFromDataStream.py" />
         <option value="$PROJECT_DIR$/0240/Search2DMatrix.py" />
+        <option value="$PROJECT_DIR$/0287/FindDuplicateNumber.py" />
+        <option value="$PROJECT_DIR$/0212/WordSearch.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -173,7 +179,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.InsertDeleteGetRandom">
+  <component name="RunManager" selected="Python.WordSearch">
     <configuration name="Calc256" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -246,38 +252,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="ReversePairs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="WordSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0493" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0212" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="LeetCode" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0493/ReversePairs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0212/WordSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.ReversePairs" />
-      <item index="1" class="java.lang.String" itemvalue="Python.FrogJump" />
-      <item index="2" class="java.lang.String" itemvalue="Python.LongestIncreasingSubsequence" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Calc256" />
-      <item index="4" class="java.lang.String" itemvalue="Python.InsertDeleteGetRandom" />
+      <item index="0" class="java.lang.String" itemvalue="Python.FrogJump" />
+      <item index="1" class="java.lang.String" itemvalue="Python.LongestIncreasingSubsequence" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Calc256" />
+      <item index="3" class="java.lang.String" itemvalue="Python.InsertDeleteGetRandom" />
+      <item index="4" class="java.lang.String" itemvalue="Python.WordSearch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.InsertDeleteGetRandom" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Calc256" />
-        <item index="2" class="java.lang.String" itemvalue="Python.LongestIncreasingSubsequence" />
-        <item index="3" class="java.lang.String" itemvalue="Python.FrogJump" />
-        <item index="4" class="java.lang.String" itemvalue="Python.ReversePairs" />
+        <item index="0" class="java.lang.String" itemvalue="Python.WordSearch" />
+        <item index="1" class="java.lang.String" itemvalue="Python.InsertDeleteGetRandom" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Calc256" />
+        <item index="3" class="java.lang.String" itemvalue="Python.LongestIncreasingSubsequence" />
+        <item index="4" class="java.lang.String" itemvalue="Python.FrogJump" />
       </list>
     </recent_temporary>
   </component>
@@ -330,20 +336,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0238/ProductOfArrayExpectSelf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0215/KthLargestElement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0680/ValidPalindrome.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -674,11 +666,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0287/FindDuplicateNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="16" lean-forward="false" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0212/WordSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="53" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="95">
-            <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+          <first_editor relative-caret-position="88">
+            <caret line="17" column="36" lean-forward="false" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
             <folding />
           </first_editor>
           <second_editor />

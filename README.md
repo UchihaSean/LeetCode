@@ -15,6 +15,7 @@
 - 0200 Number of Islands. DFS + visited
 - 0209 Minimum Size Subarray Sum. Two Pointer O(n), Binary search O(nlgn)
 - 0211 Add and Search Word - Data structure design. Trie.
+- 0212 Word Search II. DFS and Trie.
 - 0215 Kth Largest Element in an Array. Minimum heap
 - 0224 Basic Calculator. Iterate. Trick to consider ()
 - 0227 Basic Calculator II. Stack.
@@ -33,6 +34,7 @@
 - 0282 Expression Add Operators. DFS
 - 0285 Inorder Successor in BST. left root right
 - 0286 Walls and Gates. BFS
+- 0287 Find the Duplicate Number. Binary Search and keep count in every search.
 - 0295 Find Median from Data Stream. Max and Min heap, keep balanced.
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
