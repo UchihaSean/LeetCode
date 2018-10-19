@@ -21,6 +21,8 @@
 - 0230 Kth Smallest Element in a BST. Morris with O(1) space
 - 0236 Lowest Common Ancestor of a Binary Tree. Recursive.
 - 0238 Product of Array Except Self. Left product and right product
+- 0239 Sliding Window Maximum. K size Heap
+- 0240 Search a 2D Matrix II. Binary Search.
 - 0247 Strobogrammatic Number II. DFS.
 - 0250 Count Univalue Subtrees. Recursive
 - 0253 Meeting Rooms II. Sort and mark start with +1, end with -1. Sum. O(nlogn)
@@ -31,6 +33,7 @@
 - 0282 Expression Add Operators. DFS
 - 0285 Inorder Successor in BST. left root right
 - 0286 Walls and Gates. BFS
+- 0295 Find Median from Data Stream. Max and Min heap, keep balanced.
 - 0297 Serialize and Deserialize Binary Tree. BFS.
 - 0298 Binary Tree Longest Consecutive Sequence. Recursive
 - 0300 Longest Increasing Subsequence. Binary search.
@@ -38,10 +41,13 @@
 - 0305 Number of Islands II. Union-find.
 - 0314 Binary Tree Vertical Order Traversal. BFS
 - 0317 Shortest Distance from All Buildings. BFS for every building.
+- 0322 Coin Change. Classic DP.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
 - 0336 Palindrome Pairs. Set.
+- 0347 Top K Frequent Elements. Heap.
 - 0360 Sort Transformed Array. Math.
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
+- 0380 Insert Delete GetRandom O(1). Track the list and dictionary. Update the list by swap the last one and the key.
 - 0381 Insert Delete GetRandom O(1) - Duplicates allowed. List and Dict. Trick. Remove one element from list, swap last one with this one.
 - 0403 Frog Jump. BFS
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
