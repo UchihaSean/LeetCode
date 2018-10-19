@@ -13,7 +13,10 @@
 - 0156 Binary Tree Upside Down. Recursive
 - 0161 One Edit Distance. Easy
 - 0200 Number of Islands. DFS + visited
+- 0207 Course Schedule. Map and Du
+- 0208 Implement Trie (Prefix Tree). Trie.
 - 0209 Minimum Size Subarray Sum. Two Pointer O(n), Binary search O(nlgn)
+- 0210 Course Schedule II. Map + Du.
 - 0211 Add and Search Word - Data structure design. Trie.
 - 0212 Word Search II. DFS and Trie.
 - 0215 Kth Largest Element in an Array. Minimum heap
@@ -42,6 +45,7 @@
 - 0304 Range Sum Query 2D - Immutable. Pre sum.
 - 0305 Number of Islands II. Union-find.
 - 0314 Binary Tree Vertical Order Traversal. BFS
+- 0315 Count of Smaller Numbers After Self. Merge Sort.
 - 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0322 Coin Change. Classic DP.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
