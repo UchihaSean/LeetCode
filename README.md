@@ -30,6 +30,7 @@
 - 0240 Search a 2D Matrix II. Binary Search.
 - 0247 Strobogrammatic Number II. DFS.
 - 0250 Count Univalue Subtrees. Recursive
+- 0251 Flatten 2D Vector. Simple.
 - 0253 Meeting Rooms II. Sort and mark start with +1, end with -1. Sum. O(nlogn)
 - 0255 Verify Preorder Sequence in Binary Search Tree. Trick
 - 0269 Alien Dictionary. in and out. a --> b mean fin[b]+=1. Stack.

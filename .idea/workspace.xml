@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d951a6-693c-4380-8da7-fe427e11a525" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/0163/missingRange.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0279/PerfectSquares.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0340/LongestSubstringWithKdistinctChar.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0378/KthSmallestMatrix.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0384/ShuffleArray.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0251/Flatten2DVector.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -23,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="332">
-                <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+              <first_editor relative-caret-position="246">
+                <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -47,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0325/MaxSizeSubarraySumEqualToK.py" />
         <option value="$PROJECT_DIR$/0721/AccountsMerge.py" />
         <option value="$PROJECT_DIR$/0227/BasicCalculate.py" />
         <option value="$PROJECT_DIR$/0785/GraphBipartite.py" />
@@ -97,6 +92,7 @@
         <option value="$PROJECT_DIR$/0279/PerfectSquares.py" />
         <option value="$PROJECT_DIR$/0340/LongestSubstringWithKdistinctChar.py" />
         <option value="$PROJECT_DIR$/0384/ShuffleArray.py" />
+        <option value="$PROJECT_DIR$/0251/Flatten2DVector.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -329,13 +325,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0721/AccountsMerge.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0227/BasicCalculate.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -684,11 +673,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0251/Flatten2DVector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="332">
-            <caret line="61" column="41" lean-forward="false" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+          <first_editor relative-caret-position="246">
+            <caret line="32" column="33" lean-forward="false" selection-start-line="32" selection-start-column="33" selection-end-line="32" selection-end-column="33" />
             <folding />
           </first_editor>
           <second_editor />
