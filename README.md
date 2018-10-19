@@ -12,6 +12,7 @@
 - 0146 LRU Cache. Ordered dictionary
 - 0156 Binary Tree Upside Down. Recursive
 - 0161 One Edit Distance. Easy
+- 0163 Missing Ranges. Simple.
 - 0200 Number of Islands. DFS + visited
 - 0207 Course Schedule. Map and Du
 - 0208 Implement Trie (Prefix Tree). Trie.
@@ -34,6 +35,7 @@
 - 0269 Alien Dictionary. in and out. a --> b mean fin[b]+=1. Stack.
 - 0272 Closest Binary Search Tree Value II. left root right, then change the [left, right]
 - 0277 Find the Celebrity. Knows(a,b) can reduce question to half.
+- 0279 Perfect Squares. DP
 - 0282 Expression Add Operators. DFS
 - 0285 Inorder Successor in BST. left root right
 - 0286 Walls and Gates. BFS
@@ -50,11 +52,14 @@
 - 0322 Coin Change. Classic DP.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
 - 0336 Palindrome Pairs. Set.
+- 0340 Longest Substring with At Most K Distinct Characters. Slide window
 - 0347 Top K Frequent Elements. Heap.
 - 0360 Sort Transformed Array. Math.
 - 0366 Find Leaves of Binary Tree. Track depth and add leaves.
+- 0378 Kth Smallest Element in a Sorted Matrix. Heap.
 - 0380 Insert Delete GetRandom O(1). Track the list and dictionary. Update the list by swap the last one and the key.
 - 0381 Insert Delete GetRandom O(1) - Duplicates allowed. List and Dict. Trick. Remove one element from list, swap last one with this one.
+- 0384 Shuffle an Array. Sort with lambda
 - 0403 Frog Jump. BFS
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
 - 0432 All O`one Data Structure. Double Linked list.
