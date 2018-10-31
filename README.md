@@ -47,10 +47,12 @@
 - 0300 Longest Increasing Subsequence. Binary search.
 - 0304 Range Sum Query 2D - Immutable. Pre sum.
 - 0305 Number of Islands II. Union-find.
+- 0308 Range Sum Query 2D - Mutable. Pre sum.
 - 0314 Binary Tree Vertical Order Traversal. BFS
 - 0315 Count of Smaller Numbers After Self. Merge Sort.
 - 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0322 Coin Change. Classic DP.
+- 0324 Wiggle Sort II. Wierd. Median can not pass. Sort nlgn pass.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
 - 0336 Palindrome Pairs. Set.
 - 0340 Longest Substring with At Most K Distinct Characters. Slide window
