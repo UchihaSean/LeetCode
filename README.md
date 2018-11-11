@@ -23,6 +23,7 @@
 - 0215 Kth Largest Element in an Array. Minimum heap
 - 0224 Basic Calculator. Iterate. Trick to consider ()
 - 0227 Basic Calculator II. Stack.
+- 0228 Summary Ranges. Easy.
 - 0230 Kth Smallest Element in a BST. Morris with O(1) space
 - 0236 Lowest Common Ancestor of a Binary Tree. Recursive.
 - 0238 Product of Array Except Self. Left product and right product
@@ -37,6 +38,7 @@
 - 0272 Closest Binary Search Tree Value II. left root right, then change the [left, right]
 - 0277 Find the Celebrity. Knows(a,b) can reduce question to half.
 - 0279 Perfect Squares. DP
+- 0280 Wiggle Sort. Swap the consecutive numbers
 - 0282 Expression Add Operators. DFS
 - 0285 Inorder Successor in BST. left root right
 - 0286 Walls and Gates. BFS
@@ -54,6 +56,7 @@
 - 0322 Coin Change. Classic DP.
 - 0324 Wiggle Sort II. Wierd. Median can not pass. Sort nlgn pass.
 - 0325 Maximum Size Subarray Sum Equals k. Pre sum and dict.
+- 0334 Increasing Triplet Subsequence. Iterate the seq and keep track a increase number triple.
 - 0336 Palindrome Pairs. Set.
 - 0340 Longest Substring with At Most K Distinct Characters. Slide window
 - 0347 Top K Frequent Elements. Heap.
@@ -66,6 +69,7 @@
 - 0403 Frog Jump. BFS
 - 0426 Convert Binary Search Tree to Sorted Doubly Linked List. inorder traversal
 - 0432 All O`one Data Structure. Double Linked list.
+- 0454 4Sum II. Two iteration of two list sum.
 - 0493 Reverse Pairs. Merge Sort.
 - 0505 The Maze II. BFS and Dynamic Programming.
 - 0523 Continuous Subarray Sum. Trick. Consider 0*k=0 and k==0.
