@@ -50,8 +50,10 @@
 - 0304 Range Sum Query 2D - Immutable. Pre sum.
 - 0305 Number of Islands II. Union-find.
 - 0308 Range Sum Query 2D - Mutable. Pre sum.
+- 0312 Burst Balloons. DP n^3.
 - 0314 Binary Tree Vertical Order Traversal. BFS
 - 0315 Count of Smaller Numbers After Self. Merge Sort.
+- 0316 Remove Duplicate Letters. Stack.
 - 0317 Shortest Distance from All Buildings. BFS for every building.
 - 0322 Coin Change. Classic DP.
 - 0324 Wiggle Sort II. Wierd. Median can not pass. Sort nlgn pass.

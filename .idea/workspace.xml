@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1d951a6-693c-4380-8da7-fe427e11a525" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/0228/SummaryRanges.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0280/WiggleSort.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0334/IncreaseTripleSubseq.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/0454/4sum.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0312/BurstBalloons.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/0316/RemoveDuplicateLetters.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -22,11 +20,31 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="249">
-                <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+              <first_editor relative-caret-position="469">
+                <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveDuplicateLetters.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0316/RemoveDuplicateLetters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BurstBalloons.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0312/BurstBalloons.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0791/CustomSortString.py" />
-        <option value="$PROJECT_DIR$/0304/RangeSumQuery.py" />
         <option value="$PROJECT_DIR$/0317/ShorestDisFromAllBuilding.py" />
         <option value="$PROJECT_DIR$/0825/FriendsOfAppropriateAge.py" />
         <option value="$PROJECT_DIR$/0381/InsertDeleteRandom.py" />
@@ -101,6 +117,8 @@
         <option value="$PROJECT_DIR$/0454/4sum.py" />
         <option value="$PROJECT_DIR$/0228/SummaryRanges.py" />
         <option value="$PROJECT_DIR$/0280/WiggleSort.py" />
+        <option value="$PROJECT_DIR$/0312/BurstBalloons.py" />
+        <option value="$PROJECT_DIR$/0316/RemoveDuplicateLetters.py" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -338,20 +356,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0304/RangeSumQuery.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="38" column="46" lean-forward="false" selection-start-line="38" selection-start-column="46" selection-end-line="38" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0317/ShorestDisFromAllBuilding.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0825/FriendsOfAppropriateAge.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -681,11 +685,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0312/BurstBalloons.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0316/RemoveDuplicateLetters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="249">
-            <caret line="29" column="33" lean-forward="true" selection-start-line="29" selection-start-column="33" selection-end-line="29" selection-end-column="33" />
+          <first_editor relative-caret-position="469">
+            <caret line="55" column="39" lean-forward="false" selection-start-line="55" selection-start-column="39" selection-end-line="55" selection-end-column="39" />
             <folding />
           </first_editor>
           <second_editor />
